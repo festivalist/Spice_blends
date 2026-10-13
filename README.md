@@ -1,6 +1,25 @@
 # Spice_blends
 Spice blends / Gewürzmischungen
 
+**German Allrounder**
+Bockshornkleesaat (Ground Fenugreek): ~22g - 25g
+
+Geräuchertes Salz (Smoked Salt): 19.2g
+
+Rohrohrzucker (Raw Cane Sugar): ~17g - 18g
+
+Kreuzkümmel (Ground Cumin): ~10g - 12g
+
+Koriander (Ground Coriander): ~8g - 10g
+
+Thymian (Rubbed Thyme): ~5g - 7g
+
+Karottenpulver (Carrot Powder): ~4g - 5g
+
+Muskatnuss (Ground Nutmeg): ~1g - 2g
+
+Zimt (Ground Cinnamon): ~1g
+
 All American Spice Blend
 2 parts chilli powder
 2 parts paprika
