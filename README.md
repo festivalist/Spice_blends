@@ -255,334 +255,196 @@
 - Die beiden Schawarma-Mischungen haben dieselben Zutaten und Mengenverhältnisse.
 - Die thailändische Sieben-Gewürze-Mischung enthält laut Vorlage acht Zutaten, darunter Garnelenextraktpulver.
 
-Spice blends / Gewürzmischungen
+# Weitere Gewürzmischungen
 
-**German Allrounder**  
-Bockshornkleesaat (Ground Fenugreek): ~22g - 25g  
-Geräuchertes Salz (Smoked Salt): 19.2g  
-Rohrohrzucker (Raw Cane Sugar): ~17g - 18g  
-Kreuzkümmel (Ground Cumin): ~10g - 12g  
-Koriander (Ground Coriander): ~8g - 10g  
-Thymian (Rubbed Thyme): ~5g - 7g  
-Karottenpulver (Carrot Powder): ~4g - 5g  
-Muskatnuss (Ground Nutmeg): ~1g - 2g  
-Zimt (Ground Cinnamon): ~1g  
+„Teile“ bezeichnet Mischungsverhältnisse: Verwende innerhalb einer Mischung dieselbe Maßeinheit. EL = Esslöffel, TL = Teelöffel.
 
-**All American Spice Blend**
-2 parts chilli powder  
-2 parts paprika  
-1 part ground coriander  
-1 part garlic powder  
-2 parts ground cumin  
-1 part sea salt  
-1 part cayenne pepper  
-1 part crushed red chilli flakes  
-1 part ground black pepper  
-1 part dried oregano leaf (Mexican if available)  
-.25 part cocoa powder  
-.125 part ground cinnamon  
+**Deutsche Allround-Gewürzmischung** (German Allrounder)
 
-Creole Spice Blend  
-1 part sweet paprika  
-1 part onion powder  
-1 part garlic powder  
-1 part dried oregano  
-1 part dried basil  
-1/2 part dried thyme  
-1/2 part ground black pepper  
-1/2 part ground white pepper  
-1 1/2 parts "low-heat" cayenne pepper  
+- ca. 22–25 g gemahlene Bockshornkleesamen (ground fenugreek)
+- 19,2 g geräuchertes Salz (smoked salt)
+- ca. 17–18 g Rohrohrzucker (raw cane sugar)
+- ca. 10–12 g gemahlener Kreuzkümmel (ground cumin)
+- ca. 8–10 g gemahlener Koriander (ground coriander)
+- ca. 5–7 g gerebelter Thymian (rubbed thyme)
+- ca. 4–5 g Karottenpulver (carrot powder)
+- ca. 1–2 g gemahlene Muskatnuss (ground nutmeg)
+- ca. 1 g gemahlener Zimt (ground cinnamon)
 
-Jerk (Jamaican) Seasoning  
-12 parts garlic powder  
-12 parts dried thyme flakes  
-8 parts onion powder  
-8 parts dried oregano flakes  
-4 parts sweet paprika  
-4 parts granulated sugar  
-4 parts allspice  
-2 part ground cinnamon  
-1 part white pepper  
-1 part cayenne  
+**Amerikanische Gewürzmischung** (All American Spice Blend)
 
-Mediterranean Spice Blend    
-2 parts dried oregano    
-1 part dried mint  
-1 part sumac  
-1 part ground coriander  
+- 2 Teile Chilipulver (chilli powder)
+- 2 Teile Paprikapulver (paprika)
+- 1 Teil gemahlener Koriander (ground coriander)
+- 1 Teil Knoblauchpulver (garlic powder)
+- 2 Teile gemahlener Kreuzkümmel (ground cumin)
+- 1 Teil Meersalz (sea salt)
+- 1 Teil Cayennepfeffer (cayenne pepper)
+- 1 Teil zerstoßene rote Chiliflocken (crushed red chilli flakes)
+- 1 Teil gemahlener schwarzer Pfeffer (ground black pepper)
+- 1 Teil getrocknete Oreganoblätter, möglichst mexikanischer Oregano (dried oregano leaf, Mexican if available)
+- 0,25 Teile Kakaopulver (cocoa powder)
+- 0,125 Teile gemahlener Zimt (ground cinnamon)
 
-FALL SPICE BLEND  
-3 parts dried thyme  
-3 parts ground sage  
-2 parts garlic powder  
-1 part onion powder  
+**Kreolische Gewürzmischung** (Creole Spice Blend)
 
+- 1 Teil edelsüßes Paprikapulver (sweet paprika)
+- 1 Teil Zwiebelpulver (onion powder)
+- 1 Teil Knoblauchpulver (garlic powder)
+- 1 Teil getrockneter Oregano (dried oregano)
+- 1 Teil getrocknetes Basilikum (dried basil)
+- 0,5 Teile getrockneter Thymian (dried thyme)
+- 0,5 Teile gemahlener schwarzer Pfeffer (ground black pepper)
+- 0,5 Teile gemahlener weißer Pfeffer (ground white pepper)
+- 1,5 Teile milder Cayennepfeffer (low-heat cayenne pepper)
 
-FALL Harvest SPICE BLEND   
-3 parts dried thyme  
-2 parts ground sage  
-.5 part garlic powder  
-.5 part onion powder  
+**Jamaikanische Jerk-Gewürzmischung** (Jerk [Jamaican] Seasoning)
 
-Autumn (Fall) Spice Blend  
-1 part cinnamon  
-1 part ground cloves  
-8 parts cumin  
+- 12 Teile Knoblauchpulver (garlic powder)
+- 12 Teile getrocknete Thymianblättchen (dried thyme flakes)
+- 8 Teile Zwiebelpulver (onion powder)
+- 8 Teile getrocknete Oreganoblättchen (dried oregano flakes)
+- 4 Teile edelsüßes Paprikapulver (sweet paprika)
+- 4 Teile Kristallzucker (granulated sugar)
+- 4 Teile Piment (allspice)
+- 2 Teile gemahlener Zimt (ground cinnamon)
+- 1 Teil weißer Pfeffer (white pepper)
+- 1 Teil Cayennepfeffer (cayenne)
 
-SOUTHWEST SPICE BLEND  
-4 part garlic powder  
-2 part cumin  
-2 part chilli powder  
+**Mediterrane Gewürzmischung** (Mediterranean Spice Blend)
 
-SMOKEY BBQ SEASONING  
-8 parts smoked paprika  
-6 parts granulated sugar  
-2 parts garlic powdered  
-1 part dry mustard  
-1 part ground cumin  
-1 part ground ginger  
-.5 part black pepper  
+- 2 Teile getrockneter Oregano (dried oregano)
+- 1 Teil getrocknete Minze (dried mint)
+- 1 Teil Sumach (sumac)
+- 1 Teil gemahlener Koriander (ground coriander)
 
-SHAWARMA SPICE BLEND  
-2 part Tumeric  
-2 part cumin  
-1 part dried coriander
-1 part garlic powder
-1 part paprika
-.5 part ground allspice
-.5 part black pepper
+**Herbst-Gewürzmischung – Variante mit mehr Knoblauch** (Fall Spice Blend)
 
-TURKISH SPICE BLEND
-2 part cumin
-2 part garlic powder
-1 part ground coriander
-.25 part ground allspice
-.25 part chilli flakes
+- 3 Teile getrockneter Thymian (dried thyme)
+- 3 Teile gemahlener Salbei (ground sage)
+- 2 Teile Knoblauchpulver (garlic powder)
+- 1 Teil Zwiebelpulver (onion powder)
 
-CAJUN SPICE BLEND
-2 part paprika
-2 part onion powder
-1 part garlic powder
-1 part dried oregano
-1 part dried thyme
-.5 part dried basil
-.5 part cayenne
+**Herbst-Gewürzmischung mit Zimt und Kreuzkümmel** (Autumn [Fall] Spice Blend)
 
-BERBERE SPICE BLEND
-3 part paprika
-1 part cayenne
-.5 part ground coriander
-.25 part ground ginger
-.125 part ground cardamom
-.125 part ground fenugreek
+- 1 Teil Zimt (cinnamon)
+- 1 Teil gemahlene Gewürznelken (ground cloves)
+- 8 Teile Kreuzkümmel (cumin)
 
-TUSCAN HEAT SPICE BLEND
-4 parts dried basil
-2 parts dried rosemary
-2 parts dried oregano
-2 parts garlic powder
-1 part cayenne pepper [7.5 k (hu)]
-1 part ground fennel
+**Mexikanische Gewürzmischung – Variante mit Salz und Zwiebeln** (Mexican Spice Blend)
 
-FRY SEASONING
-1 part garlic powder
-1 part onion powder
-1 part paprika
+- 2 EL Chilipulver (chili powder)
+- 1 EL Kreuzkümmel (cumin)
+- 0,5 EL Salz (salt)
+- 0,5 EL gemahlener schwarzer Pfeffer (ground black pepper)
+- 1 TL Paprikapulver (paprika)
+- 0,5 TL rote Chiliflocken (red pepper flakes)
+- 0,5 TL Oregano (oregano)
+- 0,5 TL Knoblauchpulver (garlic powder)
+- 0,5 TL Zwiebelpulver (onion powder)
+- 0,25 TL gemahlener Cayennepfeffer (ground cayenne pepper)
 
-MEATLOAF SEASONING
-2 parts garlic powder
-2 parts onion powder
-1 part dried thyme
-1 part dried basil
+**Schwedische Gewürzmischung** (Swedish Spice Blend)
 
-TUNISIAN SPICE BLEND
-4 parts ground caraway seed
-4 parts ground coriander
-4 parts smoked paprika
-4 parts turmeric
-4 parts chilli powder
-4 parts garlic powder
-1 part cayenne pepper [7.5 k (hu)]
-1 part cinnamon
-1 part ground black pepper
+- 4 Teile Knoblauchpulver (garlic powder)
+- 2 Teile Piment (allspice)
+- 2 Teile weißer Pfeffer (white pepper)
+- 1 Teil Muskatnuss (nutmeg)
 
-Mexican Spice Blend
-2 TBSP Chili Powder
-1 TBSP Cumin
-1/2 TBSP salt
-1/2 TBSP Ground Black Pepper
-1 tsp Paprika
-1/2 tsp Red Pepper Flakes
-1/2 tsp Oregano
-1/2 tsp Garlic Powder
-1/2 tsp Onion Powder
-1/4 tsp Ground Cayenne Pepper
+**Gewürzmischung zum scharfen Anbraten mit dunkler Gewürzkruste – Variante mit Zwiebeln** (Blackening Spice)
 
-Smoky Mexican Spice Mix
-2 parts chilli powder
-1 part oregano
-1 part smoked paprika
-1 part cumin.
+- 3 Teile geräuchertes Paprikapulver (smoked paprika)
+- 1,5 Teile Paprikapulver (paprika)
+- 1,5 Teile Zwiebelpulver (onion powder)
+- 1 Teil Knoblauchpulver (garlic powder)
+- 0,5 Teile weißer Pfeffer (white pepper)
+- 0,5 Teile schwarzer Pfeffer (black pepper)
+- 0,25 Teile Thymian (thyme)
+- 0,25 Teile Oregano (oregano)
+- 0,125 Teile Cayennepfeffer (cayenne pepper)
 
-Burger Spice Blend
-1 TBSP Paprika
-1 1/4 tsp Salt
-1 tsp Ground Black Pepper
-1/2 tsp Garlic Powder
-1/2 tsp Brown Sugar
-1/2 tsp Onion Powder
-1/4 tsp Ground Cayenne Pepper
+**Italienische Gewürzmischung mit Knoblauchgranulat** (Italian Seasoning)
 
-Smokey cinnamon paprika spice
-1 part ground cloves,
-8 parts onion powder,
-8 parts ground cinnamon,
-6 parts smoked paprika,
-16 parts mustard powder,
-24 parts sweet paprika,
-24 parts white granulated sugar
+- 1 Teil Knoblauchgranulat (granulated garlic)
+- 1 Teil Oregano (oregano)
+- 1 Teil Basilikum (basil)
+- 1 Teil schwarzer Pfeffer (black pepper)
+- 1 Teil Petersilienflocken (parsley flakes)
 
-Swedish Spice Blend
-4 parts garlic powder
-2 parts allspice
-2 parts white pepper
-1 part nutmeg
+**Gartenkräuter-Ranch-Gewürzmischung** (Garden Ranch Spice Blend)
 
-BLACKENING SPICE
-3 parts smoked paprika
-1.5 parts paprika
-1.5 parts onion powder
-1 part garlic powder
-0.5 part white pepper
-0.5 part black pepper
-0.25 part thyme
-0.25 part oregano
-0.125 cayenne pepper
+- 2 Teile getrocknete Petersilie (dried parsley)
+- 1 Teil getrocknete Dillspitzen (dried dill weed)
+- 2 Teile Knoblauchpulver (garlic powder)
+- 2 Teile Zwiebelpulver (onion powder)
+- 2 Teile getrocknete Zwiebelflocken (dried onion flakes)
+- 1 Teil gemahlener schwarzer Pfeffer (ground black pepper)
+- 1 Teil getrockneter Schnittlauch (dried chives)
 
-Blackening (Southern Sizzle) Spice
-3 tsp smoked paprika
-1.5 tsp garlic powder
-.5 tsp white pepper
-.5 tsp black pepper
-.25 tsp thyme
-.25 tsp oregano
-.125 tsp low heat cayenne
+**Kräftig-würzige Steak-Gewürzmischung** (Bold & Savory Steak Spice Blend)
 
-Italian Seasoning
-1 part granulated garlic
-1 part oregano
-1 part basil
-1 part black pepper
-1 part parsley flakes
+- 4 Teile oder 1 Teil rote Chiliflocken – Angabe in der Vorlage uneindeutig (red chilli flakes)
+- 1 Teil zerstoßene Koriandersamen (crushed coriander seeds)
+- 2 Teile zerstoßene Dillsamen (crushed dill seed)
+- 3 Teile zerstoßene Senfkörner (crushed mustard seed)
+- 4 Teile getrockneter, fein gehackter Knoblauch (dried minced garlic)
+- 4 Teile zerstoßener schwarzer Pfeffer (crushed black pepper)
+- 3 Teile koscheres Salz (kosher salt)
 
-Fajita Spice Blend
-4 parts paprika
-1 part onion powder
-1 part garlic powder
-1 part chilli powder
-1 part cumin
-1 part oregano
+**Za’atar-Gewürzmischung** (Za’atar Blend)
 
-Enchilada Spice Blend
-3 parts chilli powder
-1 part cumin
-1 part oregano
+- 1 Teil getrocknete Thymianblättchen (dried thyme flakes)
+- 1 Teil geröstete Sesamsamen (toasted sesame seeds)
+- 1 Teil Sumach (sumac)
+- 0,5 Teile getrocknete Oreganoblättchen (dried oregano flakes)
+- 0,5 Teile Majoran (marjoram)
+- 0,5 Teile Pfeffer (pepper)
 
-Moo Shu Spice Blend
-1 part ground ginger
-1 part garlic powder (no salt added)
+**Nahöstliche Gewürzmischung** (Middle Eastern Spice Sachel)
 
-Thai Seven Spice Blend
-2.5 tsp white sesame seeds
-1 tsp chilli flakes
-1 tsp ground coriander
-1 tsp onion powder
-.5 tsp garlic powder
-.5 tsp shrimp extract powder
-.25 tsp cinnamon
-.125 tsp low heat cayenne [7.5 k (hu)]
+- 5 Teile Paprikapulver (paprika)
+- 3 Teile Knoblauchpulver (garlic powder)
+- 2 Teile Kurkuma (turmeric)
+- 2 Teile Koriander (coriander)
+- 2 Teile schwarzer Pfeffer (black pepper)
+- 1 Teil Piment (allspice)
+- 2,5 Teile Salz (salt)
 
-Garden Ranch Spice Blend
-2 parts dried parsley
-1 part dried dill weed
-2 parts garlic powder
-2 parts onion powder
-2 parts dried onion flakes
-1 part ground black pepper
-1 part dried chives
+**Dukkah-Gewürzmischung** (Dukkah Spice Blend)
 
-Steak Spice Blend
+- 4 Teile Mandeln (almonds)
+- 2 Teile Sesamsamen (sesame seeds)
+- 2 Teile Koriandersamen (coriander seeds)
+- 1 Teil Kreuzkümmelsamen (cumin seeds)
 
-1 part red chilli flakes
-1 part crushed coriander seed
-2 parts crushed dill seed
-3 parts crushed mustard seed
-4 parts dried minced garlic
-4 parts crushed black pepper
-3 parts kosher salt
+**Chermoula-Gewürzmischung** (Chermoula Spice Blend)
 
-Bold & Savory Steak Spice Blend
-4 parts red chilli flakes Or 1 part
-1 part crushed coriander seeds
-2 parts crushed dill seed
-3 parts crushed mustard seed
-4 parts dried minced garlic
-4 parts crushed black pepper
-3 parts kosher salt
+- 24 Teile Kreuzkümmel (cumin)
+- 12 Teile gemahlener Koriander (ground coriander)
+- 6 Teile edelsüßes Paprikapulver (sweet paprika)
+- 6 Teile Chilipulver (chilli powder)
+- 4 Teile gemahlener Zimt (ground cinnamon)
+- 3 Teile Piment (allspice)
+- 3 Teile gemahlener Ingwer (ground ginger)
+- 1 Teil Cayennepfeffer (cayenne)
+- 2 Teile Kurkuma (turmeric)
 
-Taco Spice Blend
-1 part cumin
-1 part oregano
-1 part garlic powder
-1 part chilli powder
+**Mole-Gewürzmischung** (Mole Spice Blend)
 
-Za’atar Blend
-1 part dried thyme flakes
-1 part toasted sesame seeds
-1 part sumac
-.5 part dried oregano flakes
-.5 part marjoram
-.5 pepper
+- 1 Teil ungesüßtes Kakaopulver (unsweetened cocoa)
+- 1 Teil Kreuzkümmel (cumin)
+- 1 Teil Chilipulver (chilli powder)
+- 1 Teil scharfes geräuchertes Paprikapulver (hot smoked paprika)
 
-Middle Eastern Spice Sachel
-5 parts paprika
-3 part garlic powder
-2 parts turmeric
-2 parts coriander
-2 part black pepper
-1 part allspice
-2.5 parts salt
+**Südostasiatische Gewürzmischung** (Southeast Asian)
 
-Dukkah Spice Blend
-4 parts almonds
-2 parts sesame seeds
-2 parts coriander seeds
-1 part cumin seeds
+- 1 Teil Salz (salt)
+- 1 Teil Zwiebelpulver (onion powder)
+- 1 Teil edelsüßes Paprikapulver (sweet paprika)
+- 1 Teil gemahlener Kreuzkümmel (ground cumin)
+- 1 Teil gemahlener Koriander (ground coriander)
+- 1 Teil Zucker (sugar)
+- 1 Teil gemahlener Ingwer (ground ginger)
+- 0,5 Teile gemahlener Zimt (ground cinnamon)
+- 0,25 Teile Cayennepfeffer (cayenne pepper)
 
-Chermoula Spice Blend
-24 parts cumin
-12 parts ground coriander
-6 parts sweet paprika
-6 parts chilli powder
-4 parts ground cinnamon
-3 parts allspice
-3 parts ground ginger 1 part cayenne
-2 parts turmeric
-
-Mole Spice Blend
-1 part unsweetened cocoa
-1 part cumin
-1 part chilli powder
-1 part hot smoked paprika
-
-
-Southeast Asian
-1 part salt
-1 part onion powder
-1 part sweet paprika
-1 part ground cumin
-1 part ground coriander
-1 part sugar
-1 part ground ginger
-½ part ground cinnamon
-¼ part cayenne pepper
